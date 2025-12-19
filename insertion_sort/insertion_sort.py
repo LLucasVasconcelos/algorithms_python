@@ -28,7 +28,6 @@ def insertion_sort_descending(vector):
 sorted_vector = insertion_sort_descending(vector)
 print("Descending sorted_vector:", sorted_vector)
 
-
 """ Description:
     *Insertion Sort Algorithm in Python*
 

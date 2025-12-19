@@ -4,8 +4,12 @@
 #### Desde os de ordenação mais basicos, até os mais avançados Divisão e conquista, Grafos..
 
 
-- Insertion Sort
-    - Ascending
-    - Descending
+##### Sorting Algorithms
+    - Insertion Sort
+        - Ascending
+        - Descending
 
-- 
+##### Search Algorithms
+
+    - Linear Search
+    
