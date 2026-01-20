@@ -12,4 +12,14 @@
 ##### Search Algorithms
 
     - Linear Search
+
+
+#### Multiply Numbers
+
+    - Multiply Integers
+
+#### Data Structure
+
+    - Stack
+    
     
