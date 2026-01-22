@@ -22,11 +22,12 @@
 
     - Stack
 
-#### Features with POO
-
-    - Iterator - (Using Fibonacci)   
 
 #### Graphs
 
     - Generic Search
-    
+
+
+
+
+   
