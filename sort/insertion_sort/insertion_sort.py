@@ -26,8 +26,6 @@ def insertion_sort_descending(vector):
     return vector
 
 sorted_vector = insertion_sort_descending(vector)
-
-
 print("Descending sorted_vector:", sorted_vector)
 
 """ Description:
@@ -37,3 +35,13 @@ print("Descending sorted_vector:", sorted_vector)
     and repeatedly inserting elements from the unsorted region into the 
     correct position in the sorted region.
 """
+
+def insertion_sort(array):
+    for i in range(1,len(array)):
+        key = array[i]
+        j = i - 1
+        
+        while j >= 0 and vector[i] < key:
+            vector[j+1] = vector[j]
+            j -= 1
+        vector[j+1] = key 
