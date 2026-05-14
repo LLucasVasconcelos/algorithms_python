@@ -1,4 +1,6 @@
 
+
+
 ### This search is used when the values is ordenated:
 def binary_search(arr,value):
     left = 0
